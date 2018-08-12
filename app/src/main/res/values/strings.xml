@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Multi-threadBreakpointDowload</string>
+    <string name="hint1">请输入下载路径</string>
+    <string name="hint2">请输入线程的数量</string>
+    <string name="button">下载</string>
+    <string name="button2">重新下载</string>
+</resources>
